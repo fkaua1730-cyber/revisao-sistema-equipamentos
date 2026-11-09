@@ -1,1 +1,1 @@
-# revis-o-sistema-equipamentos
+# revisao-sistema-equipamentos
