@@ -27,3 +27,4 @@ def consultar_quantidade(codigo):
         if equipamento.codigo == codigo: 
             return equipamento.quantidade 
     return None
+
